@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo systemctl restart docker
+systemctl restart docker
